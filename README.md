@@ -1,1 +1,1 @@
-# Custom-Linear-Regression
+# Custom-Logistic-Regression
